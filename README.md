@@ -1,1 +1,2 @@
-# techdegree-project-1
+# Techdegree Project 1
+# Aiming for Exceed Grade
